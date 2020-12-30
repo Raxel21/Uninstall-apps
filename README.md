@@ -5,7 +5,7 @@
 
 ## Terminal Commands
 ```shell
-$ adb shell
-$ pm list packages
-$ pm uninstall -k --user 0 package name
+adb shell
+pm list packages
+pm uninstall -k --user 0 package name
 
